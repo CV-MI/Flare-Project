@@ -37,4 +37,8 @@ A GUI tool that performs auto annotation for flare stack images. The tool does t
 
 Install Anaconda and Python and install the libraries detailed in "requirements.txt" file. Running "GUImain.py" runs the GUI tool.
 
+## Model
+The Trained Model is available at following link: https://drive.google.com/file/d/1mWvQOWqaJXipxc7oNSsZeHRWXY3_W901/view?usp=sharing
+
+
 
